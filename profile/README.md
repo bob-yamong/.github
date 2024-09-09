@@ -9,7 +9,7 @@ Development of an eBPF based container runtime solution
 
 ```mermaid
 gantt
-    title Project Yamong
+    title WBS
     dateFormat YYYY-MM-DD
     todayMarker off
 
@@ -18,22 +18,33 @@ gantt
     Kick-off         :2024-09-02, 5d
 
     section Research
-    Knowledge        :2024-09-02, 19d
+    Kernel Study        :2024-09-02, 10d
+    eBPF Study          :2024-09-02, 10d
+    Prior Research Survey :2024-09-07, 5d
 
     section Development
-    Security Proto   :2024-09-07, 42d
-    Mid-term 1       :2024-10-11, 8d
-    GUI Dev          :2024-10-04, 43d
-    Security Enhance :2024-10-19, 28d
-    Mid-term 2       :2024-11-09, 7d
+    Analysis of Kernel API     :2024-09-07, 10d
+    Analysis of lsm hooks      :2024-09-07, 10d
+    Kernel Space Program       :2024-09-17, 14d
+    User Spcae Program         :2024-09-31, 14d
+    Policy YAML parser         :2024-09-31, 14d
+    eBPF Security Engine MVP   :2024-10-11, 8d
+    1st Interim Presentation       :2024-10-11, 8d
+    Policy Page Dev :2024-10-19, 5d
+    Container Moinotring Page Dev :2024-10-24, 5d
+    BE Dev           :2024-10-29, 18d 
+    Security Enhance :2024-10-29, 18d
+    2nd Interim Presentation       :2024-11-09, 7d
     Event Log Dev    :2024-11-16, 14d
     Solution Enhance :2024-11-16, 28d
+
+    section Verification
     Testing          :2024-12-07, 14d
     Verification     :2024-12-07, 14d
     Report Writing   :2024-12-07, 14d
 
     section Wrap-up
-    Final Present    :2024-12-21, 1d
+    Final Presentation    :2024-12-21, 1d
 ```
 
 
