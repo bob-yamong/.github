@@ -2,17 +2,7 @@
 
 Development of an eBPF based container runtime solution
 
-## 프로젝트 구조
-> [!WARNING]
-> 하기 구조도는 실제 프로젝트 구조와 차이가 있을 수 있음
-
-### 정책 생성
-![정책 생성 방법](/../../../../bob-yamong/drawio/blob/main/img/yamong/AbstractionFlow.jpg)
-
-### 엔진 구성
-![엔진 구성](/../../../../bob-yamong/drawio/blob/main/img/yamong/AbstractionFlow.jpg)
-
-### eBPF 흐름
+## Project Structure
 ![eBPF 흐름](/../../../../bob-yamong/drawio/blob/main/img/yamong/SpecificFlow.jpg)
 
 ## WBS
