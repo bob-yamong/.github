@@ -26,8 +26,8 @@ gantt
     Analysis of Kernel API     :2024-09-07, 10d
     Analysis of lsm hooks      :2024-09-07, 10d
     Kernel Space Program       :2024-09-17, 14d
-    User Spcae Program         :2024-09-31, 14d
-    Policy YAML parser         :2024-09-31, 14d
+    User Spcae Program         :2024-09-30, 14d
+    Policy YAML parser         :2024-09-30, 14d
     eBPF Security Engine MVP   :2024-10-11, 8d
     1st Interim Presentation       :2024-10-11, 8d
     Policy Page Dev :2024-10-19, 5d
