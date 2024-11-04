@@ -1,9 +1,9 @@
 # BoB 13th Project - Team Yamong_1337
 
-Development of an eBPF based container runtime solution
+Development of an eBPF-based container runtime solution
 
 ## Project Structure
-![eBPF 흐름](/../../../../bob-yamong/drawio/blob/main/img/yamong/SpecificFlow.jpg)
+![eBPF 흐름](/../../../../bob-yamong/drawio/blob/main/img/yamong/yamong.png)
 
 ## WBS
 
