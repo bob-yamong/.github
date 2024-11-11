@@ -1,6 +1,7 @@
 # BoB 13th Project - Team Yamong_1337
 
-Development of an eBPF-based container runtime solution
+![Yamong Preview](./yamong-og-v2.png)
+Development of Policy-based eBPF Container Security Solution
 
 ## Project Structure
 ![eBPF Flow](/../../../../bob-yamong/drawio/blob/main/img/yamong/yamong.png)
