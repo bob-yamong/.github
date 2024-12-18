@@ -4,8 +4,7 @@
 Development of Policy-based eBPF Container Security Solution
 
 ## Project Structure
-![eBPF Flow](/../../../../bob-yamong/drawio/blob/main/img/yamong/yamong.png)
-![Data Flow](/../../../../bob-yamong/drawio/blob/main/img/yamong/yamong-v2.png)
+![Data Flow](./yamong-Final.drawio.png)
 
 ## WBS
 
